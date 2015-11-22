@@ -1,0 +1,4402 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PricerrTheme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-24 12:36+0200\n"
+"PO-Revision-Date: 2015-01-06 21:26-0800\n"
+"Last-Translator: sitemile <sitemile@sitemile.com>\n"
+"Language-Team: sitemile.com <sitemile@sitemile.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: C:\\Users\\andrei\\Desktop\\sitemile_themes\\PricerrTheme"
+"\\\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SearchPath-0: C:\\Users\\andrei\\Desktop\\sitemile_themes"
+"\\PricerrTheme\n"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/404.php:32
+msgid "Page Not Found"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/404.php:34
+msgid ""
+"The requested page cannot be found. Maybe your job has not been approved yet."
+msgstr ""
+"The requested page cannot be found. Maybe your listing has not been approved "
+"yet."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/archive-job.php:89
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/latest-jobs.php:53
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/tag.php:41
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/taxonomy.php:100
+msgid "All Posted Jobs"
+msgstr "Shared Resources"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/archive-job.php:90
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/tag.php:42
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/taxonomy.php:101
+#, php-format
+msgid "Latest Posted Jobs in %s"
+msgstr "Latest Shared Resources In %s"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/archive-job.php:96
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/advanced_search.php:39
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/taxonomy.php:135
+msgid "Filter jobs by:"
+msgstr "Filter by:"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/archive-job.php:99
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/advanced_search.php:42
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/taxonomy.php:138
+msgid "Auto"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/archive-job.php:102
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/advanced_search.php:45
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/taxonomy.php:141
+msgid "New"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/archive-job.php:105
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/advanced_search.php:48
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/taxonomy.php:144
+msgid "Rating"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/archive-job.php:107
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/advanced_search.php:50
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/taxonomy.php:146
+msgid "Views"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/archive-job.php:108
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/advanced_search.php:51
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/taxonomy.php:147
+msgid "Popularity"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/archive-job.php:109
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/advanced_search.php:52
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/taxonomy.php:148
+msgid "Express Jobs"
+msgstr "Express Reservation"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/archive-job.php:110
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:2078
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4560
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4899
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/advanced_search.php:53
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/taxonomy.php:149
+msgid "Instant Delivery"
+msgstr "Instant Reservations"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/archive-job.php:123
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/latest-jobs.php:69
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/advanced_search.php:66
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/taxonomy.php:162
+msgid "Switch View:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/archive-job.php:183
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/user_profile.php:128
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/tag.php:62
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/taxonomy.php:222
+msgid "No jobs posted."
+msgstr "No shared resources."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/archive-request.php:43
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/request-widget.php:67
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/taxonomy-request_cat.php:41
+#, php-format
+msgid "<a href=\"%s\">%s</a> needs"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/archive-request.php:45
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4255
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/request-widget.php:69
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/taxonomy-request_cat.php:43
+msgid "Posted in"
+msgstr "Shared in"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/archive.php:31
+#, php-format
+msgid "Daily Blog Archives: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/archive.php:33
+#, php-format
+msgid "Monthly Blog Archives: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/archive.php:35
+#, php-format
+msgid "Yearly Blog Archives: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/archive.php:37
+msgid "Blog Archives"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/autosuggest.php:99
+msgid "No results found"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/comments.php:4
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/comments.php:27
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/comments.php:42
+msgid "Comment navigation"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/comments.php:28
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/comments.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/comments.php:29
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:38
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:49
+msgid "Begin to search by typing here..."
+msgstr "Enter Co-Lab, NMR, Mass Spec, HPLC, DNA Sequencer, etc."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:621
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1119
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1253
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1855
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1933
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1994
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2071
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2150
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2209
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2286
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:369
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new.php:97
+msgid "Job Title"
+msgstr "Listing Title"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:622
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1648
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1738
+msgid "Price"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:623
+msgid "Author"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:624
+msgid "Posted On"
+msgstr "Shared On"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:625
+msgid "Status"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:626
+msgid "Thumbnail"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:627
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1121
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1255
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1423
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1556
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1652
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1742
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2584
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2742
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2852
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3006
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3117
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3295
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3449
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3512
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3575
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3658
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3746
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3834
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:86
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:140
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:218
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:367
+msgid "Options"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:661
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1441
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1831
+msgid "Closed"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:662
+msgid "Open"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1293
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:684
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new.php:439
+msgid "For an extra"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1295
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3287
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:5241
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:708
+msgid "I will"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1347
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1856
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1934
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1995
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2072
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2151
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2210
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2287
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new.php:102
+msgid "Job Price"
+msgstr "Rental Rate"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1383
+msgid "Delivery"
+msgstr "Response Time"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1389
+msgid "Youtube Video Link #1"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1396
+msgid "Youtube Video Link #2"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1403
+msgid "Youtube Video Link #3"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1417
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:462
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new.php:229
+msgid "Requires shipping?"
+msgstr "Requires cleanup & maintenance deposit?"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1430
+msgid "Feature this job"
+msgstr "Feature this listing"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1435
+msgid "Active Job?"
+msgstr "Active Listing?"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1473
+msgid "Click inside the gray area to add new pictures."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1655
+msgid "Jobs"
+msgstr "Listings"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1656
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1647
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1737
+msgid "Job"
+msgstr "Listing"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1657
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1660
+msgid "Add New Job"
+msgstr "Add New Listing"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1658
+msgid "New Job"
+msgstr "New Listing"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1659
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4178
+msgid "Edit Job"
+msgstr "Edit Listing"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1661
+msgid "Search Jobs"
+msgstr "Search Listings"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1681
+msgid "Requests"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1682
+msgid "Request"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1683
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1686
+msgid "Add New Request"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1684
+msgid "New Request"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1685
+msgid "Edit Request"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1687
+msgid "Search Requests"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1702
+msgid "Request Categories"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1703
+msgid "Job Categories"
+msgstr "Listing Categories"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1704
+msgid "Job Locations"
+msgstr "Listing Locations"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1954
+#, php-format
+msgid "%s ... <span class=\"no_bolds\">for %s</span>"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:1968
+#, php-format
+msgid "by <a href=\"%s\" class=\"grid_view_url_thing1\">%s</a>"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:2079
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4561
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4898
+msgid "Express Job"
+msgstr "Express Reservation"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:2111
+msgid "Instant"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:2114
+msgid "24Hrs"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:2116
+#, php-format
+msgid "%s days"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:2122
+#, php-format
+msgid "by <a href='%s' class='title_of_job2'>%s</a>"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:2123
+#, php-format
+msgid "<span class=\"spn_txt_diff\">From</span>: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:2124
+#, php-format
+msgid "<span class=\"spn_txt_diff\">Joined</span>: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:2125
+#, php-format
+msgid "<span class=\"spn_txt_diff\">Delivery</span>: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:2139
+#, php-format
+msgid "Order Now %s"
+msgstr "Request Reservation %s"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:2328
+msgid "Payment received from Site Admin"
+msgstr "Payment received from Lab Fellows"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:2341
+msgid "Payment taken from Site Admin"
+msgstr "Payment taken from Lab Fellows"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:2665
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new.php:165
+msgid "Select Subcategory"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3138
+msgid "PricerrTheme - Stretch Wide MainPage Sidebar"
+msgstr "Stretch Wide MainPage Sidebar"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3140
+msgid ""
+"This sidebar is site wide stretched in home page, just under the main menu "
+"area."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3149
+msgid "PricerrTheme - Footer Stretch Sidebar"
+msgstr "Footer Stretch Sidebar"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3151
+msgid ""
+"This sidebar is site wide stretched sidebar, just above the footer area."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3161
+msgid "Single Page Sidebar"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3163
+msgid "The sidebar area of the single blog post"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3171
+msgid "Other Page Sidebar"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3173
+msgid "The sidebar area of any other page than the defined ones"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3184
+msgid "Home Page Sidebar - Right"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3186
+msgid "The right sidebar area of the homepage"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3197
+msgid "Home Page Sidebar - Left"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3199
+msgid "The left sidebar area of the homepage"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3209
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3211
+msgid "The first footer widget area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3220
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3222
+msgid "The second footer widget area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3231
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3233
+msgid "The third footer widget area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3242
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3244
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3254
+msgid "PricerrTheme - Job Single Sidebar"
+msgstr "Listing Single Sidebar"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3256
+msgid "The sidebar of the single auction page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3265
+msgid "PricerrTheme - HomePage Area"
+msgstr "HomePage Area"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3267
+msgid "The sidebar for the main page, just under the slider."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:3301
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:5242
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:5243
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:5245
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:5246
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:371
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:708
+msgid "for"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4034
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/my_account.php:71
+msgid "My Jobs"
+msgstr "My Listings"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4035
+msgid "Payments"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4036
+msgid "Shopping"
+msgstr "My Reservations"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4037
+msgid "Manage Sales"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4038
+#, php-format
+msgid "Private Messages %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4039
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/personal_info.php:30
+msgid "Personal Info"
+msgstr "Profile"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4040
+msgid "Reviews/Feedback"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4168
+msgid "Pending Review"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4175
+msgid "Listing fee not paid"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4177
+msgid "Delete Job"
+msgstr "Delete Listing"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4183
+msgid "Deactivate Job"
+msgstr "Deactivate Listing"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4186
+msgid "Activate Job"
+msgstr "Activate Listing - %s"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4199
+msgid "Feature Job"
+msgstr "Feature Listing"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4213
+#, php-format
+msgid ""
+"Your job is not published yet. Please <b><a href=\"%s\">pay the featured "
+"fee</a></b> to publish."
+msgstr ""
+"Your listing is not published yet. Please <b><a href=\"%s\">pay the Featured "
+"fee</a></b> to publish."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4567
+#, php-format
+msgid "Purchased on %s"
+msgstr "Reservation Purchased on %s"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4568
+#, php-format
+msgid "Expected Delivery: %s"
+msgstr "Expected Response Time: %s"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4568
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4915
+#, php-format
+msgid "Order ID: #%s"
+msgstr "Reservation ID: #%s"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4573
+msgid "Mark Completed"
+msgstr "Check-Out"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4576
+msgid "Waiting for the seller to deliver."
+msgstr "Waiting for the seller to check you in."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4586
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4926
+msgid "Request Mutual Cancelation"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4609
+#, php-format
+msgid ""
+"The seller of this job has requested a mutual cancellation for this job on "
+"%s. <br/>Seller's Message: <span class=\"en_em\">%s</span> <br/><br/> <b><a "
+"href=\"%s\">Answer this request</a></b>."
+msgstr ""
+"The Co-Lab Hosting this listing has requested a mutual cancellation for this "
+"reservation on %s. <br/>Host's Message: <span class=\"en_em\">%s</span> <br/"
+"><br/> <b><a href=\"%s\">Answer this request</a></b>."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4622
+#, php-format
+msgid ""
+"You have requested a mutual cancellation on this job on %s. Waiting the "
+"seller' reply."
+msgstr ""
+"You have requested a mutual cancellation on this reservation on %s. Waiting "
+"the Fellow's reply."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4632
+msgid "Cancel Job"
+msgstr "Cancel Reservation"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4644
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:742
+msgid "Contact Seller"
+msgstr "Ask Lab A Question"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4646
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4983
+msgid "Conversation Page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4654
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4991
+#, php-format
+msgid "Instructions for the buyer: %s"
+msgstr "Instructions for Fellow: %s"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4678
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:5015
+#, php-format
+msgid "Download File: <b>%s</b>"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4914
+#, php-format
+msgid "Sold on: %s"
+msgstr "Reserved on: %s"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4915
+#, php-format
+msgid " Expected Delivery: %s"
+msgstr "Expected Response Time: %s"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4944
+#, php-format
+msgid ""
+"The buyer of this job has requested a mutual cancellation for this job on "
+"%s. <br/>Buyer's Message: <span class=\"en_em\">%s</span> <br/><br/> <b><a "
+"href=\"%s\">Answer this request</a></b>."
+msgstr ""
+"The Fellow renting this item has requested a mutual cancellation for this "
+"reservation on %s. <br/>Fellow's Message: <span class=\"en_em\">%s</span> "
+"<br/><br/> <b><a href=\"%s\">Answer this request</a></b>."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4956
+#, php-format
+msgid ""
+"You have requested a mutual cancellation on this job on %s. Waiting the "
+"buyer' reply."
+msgstr ""
+"You have requested a mutual cancellation on this reservation on %s. Waiting "
+"the Fellow's reply."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4969
+msgid "Mark as Delivered"
+msgstr "Check-In Fellow"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4972
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/cancel_job_request.php:12
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/request_mutual_cancelation.php:12
+msgid "Cancel Order"
+msgstr "Cancel Reservation"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4976
+msgid "Waiting for the buyer to confirm."
+msgstr "Waiting for Fellow to Self Check-Out."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:4981
+msgid "Contact Buyer"
+msgstr "Contact Fellow"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:5105
+msgid "Request Cancellation"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:5111
+msgid ""
+"By using this option you are asking the buyer to cancel the order. If he "
+"agrees with this, and cancels the order, the money gets refunded into his "
+"account and\n"
+"                            you will not get a bad review over it."
+msgstr ""
+"By using this option you are asking the Fellow to cancel the reservation. If "
+"Fellow agrees with this, and cancels the order, the money gets refunded into "
+"Fellow's account and \n"
+"                            you will not get a bad review over it."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:5117
+msgid "Message for Buyer"
+msgstr "Message for Fellow"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:5123
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:5145
+msgid "Submit"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:5131
+msgid "Force Cancellation"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:5137
+msgid ""
+"By using this option you are forcing cancelling this order. The money gets "
+"refunded into the buyer's account, and you will get a bad review over the "
+"job."
+msgstr ""
+"By using this option you are forcing cancellation of this reservation. The "
+"money gets refunded into the Fellow's account, and you may get a bad review "
+"over the listing."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:5354
+msgid "Expired"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:5356
+#, php-format
+msgid "%s hours, %s min, %s sec"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:5359
+msgid "days"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:5359
+msgid "day"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:5360
+#, php-format
+msgid "%s %s, %s hours, %s min"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:5665
+#, php-format
+msgid "Payment received for job: <a href=\"%s\">%s</a>"
+msgstr "Payment received for sharing: <a href=\"%s\">%s</a>"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:5668
+#, php-format
+msgid "Fee taken for job: <a href=\"%s\">%s</a>"
+msgstr "LabFellows.com Transaction Fee: <a href=\"%s\">%s</a>"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:5748
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:281
+msgid "Unlike this Job"
+msgstr "Unlike this Listing"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/functions.php:5767
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:270
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:279
+msgid "Like this Job"
+msgstr "Like this Listing"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/header.php:43
+#, php-format
+msgid "All posted jobs in %s - %s"
+msgstr "All Shared Resources in %s - %s"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/header.php:50
+msgid "User Profile"
+msgstr "Account Profile"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/header.php:250
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/header.php:452
+msgid "Search for services here..."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/header.php:271
+msgid "Wp-Admin"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/header.php:275
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/header.php:390
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:131
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:448
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:145
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:185
+msgid "Home"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/header.php:276
+msgid "Post New"
+msgstr "Share More"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/header.php:278
+msgid "Blog"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/header.php:320
+msgid "Log Out"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/header.php:330
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:133
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:450
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:80
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:92
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:138
+msgid "Register"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/header.php:331
+msgid "Log In"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/header.php:392
+msgid "All Jobs"
+msgstr "All Shared Resources"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/header.php:393
+msgid "Show All Categories"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/header.php:394
+msgid "Show All Locations"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/latest-jobs.php:41
+#, php-format
+msgid "All %s Jobs"
+msgstr "All %s Listings"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/latest-jobs.php:48
+#, php-format
+msgid "All Jobs in %s"
+msgstr "All Listings in %s"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/latest-jobs.php:313
+msgid "Show All Jobs"
+msgstr "Show All Listings"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/latest-jobs.php:327
+msgid "Sorry, there are no posted jobs yet"
+msgstr "Sorry, there are no shared resources yet"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/activate_job.php:5
+msgid "Activate job"
+msgstr "Activate Listing"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/activate_job.php:43
+#, php-format
+msgid "Activate Job - %s"
+msgstr "Activate Listing - %s"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/activate_job.php:54
+#, php-format
+msgid "The job has been activated. <a href='%s'>Go back</a> to your jobs area."
+msgstr ""
+"The listing has been activated. <a href='%s'>Go back</a> to 'My Listings' in "
+"your dashboard area."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/activate_job.php:62
+msgid "Are you sure you want to activate this job?"
+msgstr "Are you sure you want to activate this listing?"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/activate_job.php:63
+msgid "Confirm Activation"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:47
+msgid "Pricerr Theme"
+msgstr "Lab Fellows Theme"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:48
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:95
+msgid "Site Summary"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:49
+msgid "General Options"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:50
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:642
+msgid "Layout Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:51
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:466
+msgid "Category Images"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:52
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4744
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4948
+msgid "Email Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:53
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6175
+msgid "Pricing Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:54
+msgid "Payment Gateways"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:55
+msgid "Withdraw Requests"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:56
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3068
+msgid "User Balances"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:57
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2804
+msgid "User Badges"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:58
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2536
+msgid "User Levels"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:59
+msgid "InSite Transactions"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:60
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1810
+msgid "Orders"
+msgstr "Reservations"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:61
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1616
+msgid "User Reviews"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:62
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1329
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:38
+msgid "Private Messages"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:63
+msgid "Chat Messages"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:64
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:928
+msgid "Tracking Tools"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:65
+msgid "Advertising"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:66
+msgid "Info Stuff"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:107
+msgid "Main Summary"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:108
+msgid "Other Information"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:172
+msgid "Information"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:184
+msgid "Main Information"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:185
+msgid "From SiteMile Blog"
+msgstr "From Blog"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:194
+msgid "PricerrTheme Version:"
+msgstr "Lab Fellows Theme Version:"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:199
+msgid "PricerrTheme Latest Release:"
+msgstr "Lab Fellows Theme Latest Release:"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:204
+msgid "WordPress Version:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:210
+msgid "Go to SiteMile official page:"
+msgstr "Go to Lab Fellows official page:"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:215
+msgid "Go to Pricerr official page:"
+msgstr "Go to Lab Fellows official page:"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:220
+msgid "Go to support forums:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:225
+msgid "Contact SiteMile Team:"
+msgstr "Contact Lab Fellows Team:"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:230
+msgid "Like us on Facebook:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:236
+msgid "Follow us on Twitter:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:281
+msgid "Advertising Spaces"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:294
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:302
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:310
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:318
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:659
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:673
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:680
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:688
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:943
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:951
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3945
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3955
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3965
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3977
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3988
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4003
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4481
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4489
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4497
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4505
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4513
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4760
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4768
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4776
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4785
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4794
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4803
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4812
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4821
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4830
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4840
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4850
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4861
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4870
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4879
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4888
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4897
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4908
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4919
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4928
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4939
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6214
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6233
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6249
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6259
+msgid "Settings saved!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:325
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:701
+msgid "HomePage"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:326
+msgid "Job Page"
+msgstr "Listing Page"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:327
+msgid "Category Page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:328
+msgid "Single Blog/Normal Page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:334
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:359
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:383
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:407
+msgid "Above the content area:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:340
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:365
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:389
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:413
+msgid "Below the content area:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:347
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:372
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:396
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:420
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:754
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:851
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:875
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:905
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:984
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1014
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4080
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4272
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4315
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4354
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4389
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4431
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4591
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4621
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4650
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4680
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4717
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5027
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5091
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5130
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5184
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5236
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5296
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5356
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5417
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5478
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5540
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5602
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5666
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5728
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5789
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5850
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5911
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5972
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6033
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6095
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6157
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6316
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6364
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6413
+msgid "Save Options"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:471
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:647
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:929
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3900
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4456
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6176
+msgid "Yes"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:471
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:647
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:929
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3900
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4456
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6176
+msgid "No"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:518
+msgid "Image attached. Done."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:523
+msgid "Please select an image."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:567
+msgid "Set Images"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:583
+msgid "Category Name"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:584
+msgid "Upload Picture"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:585
+msgid "Current Picture"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:605
+msgid "Picture attached already."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:612
+msgid "Upload Image"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:702
+msgid "Header"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:703
+msgid "Footer"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:704
+msgid "Change Colors"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:713
+msgid "Color for background:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:738
+msgid "Color for footer:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:745
+msgid "Color for top links:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:770
+msgid "The layout of the homepage."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:771
+msgid "Choose from the home page layouts available:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:775
+msgid "Content + Right Sidebar:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:783
+msgid "Content + Left Sidebar + Right Sidebar:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:791
+msgid "Left Sidebar + Content + Right Sidebar:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:799
+msgid "Left Sidebar + Content:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:807
+msgid "Content:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:814
+msgid "HomePage enable main graphic:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:819
+msgid "HomePage 'How it works' graphic:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:825
+msgid "HomePage main slogan (line1):"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:830
+msgid "HomePage main slogan (line2):"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:836
+msgid "Getting Started Link:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:842
+msgid "Link for homepage graphic:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:866
+msgid "Eg: http://your-site-url.com/images/logo.jpg"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:867
+msgid "Logo URL:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:889
+msgid "This will appear in the left side of the footer area."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:890
+msgid "Left side footer area content:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:896
+msgid "This will appear in the right side of the footer area."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:897
+msgid "Right side footer area content:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:959
+msgid "Google Analytics"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:960
+msgid "Other Tracking Tools"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:970
+msgid "Enable Google Analytics:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:976
+msgid "Analytics Code:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1000
+msgid "Enable Other Tracking:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1006
+msgid "Other Tracking Code:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1037
+msgid "Chat Box Messages"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1054
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1346
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1357
+msgid "Message was deleted"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1063
+msgid "All Chat Messages"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1064
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1224
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1366
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1525
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1629
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1708
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1904
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2045
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2119
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2258
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2431
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2698
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2962
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3251
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3626
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3713
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3801
+msgid "Search User"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1117
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1251
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1419
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1552
+msgid "Sender"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1118
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1252
+msgid "Job Owner"
+msgstr "Co-Lab Host"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1120
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1254
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1422
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1555
+msgid "Sent On"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1157
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1291
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1453
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6480
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:103
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:158
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:235
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:385
+msgid "Delete"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1177
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1478
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/advanced_search.php:266
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:286
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:435
+msgid "Previous"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1197
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1498
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/advanced_search.php:285
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:307
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:456
+msgid "Next"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1207
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1508
+msgid "There are no private messages."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1225
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1526
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1709
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1905
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2046
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2120
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2259
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2355
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2432
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2549
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2699
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2817
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2963
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3081
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3252
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3627
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3714
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3802
+msgid "Search"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1311
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1589
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3693
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3781
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3869
+msgid "There are no results for your search."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1365
+msgid "All Private Messages"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1420
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1553
+msgid "Receiver"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1421
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1554
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:84
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:138
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:216
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:365
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:689
+msgid "Subject"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1456
+msgid "Message Deleted"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1457
+msgid "Permanent Delete"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1628
+msgid "All User Reviews"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1630
+msgid "Search Job"
+msgstr "Search Listing"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1646
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1736
+msgid "User"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1649
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1739
+msgid "Rating Type"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1650
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1740
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:415
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/reviews.php:275
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new.php:187
+msgid "Description"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1651
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1741
+msgid "Awarded On"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1694
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1784
+msgid "There are no user feedback."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1822
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/my_account.php:77
+msgid "Active"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1823
+msgid "Search Active"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1825
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/bank.php:154
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/credits.php:157
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/moneybookers_response.php:135
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/paypal_response.php:139
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/payza_response.php:183
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/return_chained.php:142
+msgid "Delivered"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1826
+msgid "Search Delivered"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1828
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3472
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3535
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3598
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3681
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3769
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3857
+msgid "Completed"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1829
+msgid "Search Completed"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1832
+msgid "Search Closed"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1854
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1932
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1993
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2070
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2149
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2208
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2285
+msgid "ID"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1857
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1935
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1996
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2073
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2152
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2211
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2288
+msgid "Seller"
+msgstr "Co-Lab Host"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1858
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1936
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1997
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2074
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2153
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2212
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2289
+msgid "Buyer"
+msgstr "Fellow"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1859
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1937
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1998
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2075
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2154
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2213
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2290
+msgid "Ordered on"
+msgstr "Reserved on"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1860
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1938
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1999
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2076
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2155
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2214
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2291
+msgid "Days to Finish"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1892
+msgid "No open orders yet."
+msgstr "No open reservations yet."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:1970
+msgid "No results for your search."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2031
+msgid "No delivered orders yet."
+msgstr "No Fellows Checked-In."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2108
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2187
+msgid "No completed orders yet."
+msgstr "No Fellows Checked-In."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2246
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2323
+msgid "No closed orders yet."
+msgstr "No closed reservations yet."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2342
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:40
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:403
+msgid "Transactions"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2354
+msgid "All Transactions"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2384
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2478
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2581
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2738
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2849
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3002
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3113
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3291
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3444
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3507
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3570
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3653
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3741
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3829
+msgid "Username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2385
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2479
+msgid "Comment/Description"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2386
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2480
+msgid "Date Made"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2387
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2481
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3448
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3510
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3573
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3657
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3745
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3833
+msgid "Amount"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2418
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2512
+msgid "There are no transactions yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2548
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2816
+msgid "All Users"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2582
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2739
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2850
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3003
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3114
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3292
+msgid "Email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2583
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2740
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2851
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3004
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3115
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3293
+msgid "Date Registered"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2610
+msgid "User Level Updated."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2649
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2766
+msgid "Level 0:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2652
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2769
+msgid "Level 1:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2653
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2770
+msgid " Level 2:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2654
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2771
+msgid " Level 3:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2656
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2773
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2920
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3035
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3209
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3321
+msgid "Update"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2876
+msgid "User Badge Updated."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2916
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3031
+msgid "No Badge:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2917
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3032
+msgid "Badge Level 1:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:2918
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3033
+msgid " Badge Level 2:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3080
+msgid "All Users Balances"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3116
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3294
+msgid "Cash Balance"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3138
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3167
+msgid "User balance updated."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3206
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3318
+msgid "Increase Cash:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3207
+msgid " Decrease Cash:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3319
+msgid "Decrease Cash:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3358
+msgid "Withdrawal Requests"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3383
+msgid "Payment rejected!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3407
+msgid "Payment completed!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3413
+#, php-format
+msgid "Withdraw to %s - Details: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3424
+msgid "Unresolved Requests"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3425
+msgid "Resolved Requests"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3426
+msgid "Rejected Requests"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3427
+msgid "Search Unresolved"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3428
+msgid "Search Solved"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3429
+msgid "Search Rejected"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3445
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3654
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3742
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3830
+msgid "Method"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3446
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3508
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3571
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3655
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3743
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3831
+msgid "Details"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3447
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3509
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3572
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3656
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3744
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3832
+msgid "Date Requested"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3471
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3534
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3597
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3680
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3768
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3856
+msgid "Make Complete"
+msgstr "Check-In"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3472
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3535
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3598
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3681
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3769
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3857
+msgid "Deny Request"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3472
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3535
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3598
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3681
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3769
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3857
+msgid "Rejected"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3484
+msgid "There are no unresolved withdrawal requests."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3511
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3574
+msgid "Date Released"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3547
+msgid "There are no resolved withdrawal requests."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3610
+msgid "There are no rejected withdrawal requests."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:3898
+msgid "General Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4012
+msgid "Main Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4013
+msgid "Level Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4014
+msgid "Filters"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4015
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/purchase-this.php:91
+msgid "Shipping"
+msgstr "Deposits"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4016
+msgid "Facebook Connect"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4017
+msgid "Twitter Connect"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4029
+msgid "Default User Level:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4036
+msgid "Level 1 Allowed Extras:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4042
+msgid "Level 2 Allowed Extras:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4048
+msgid "Level 3 Allowed Extras:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4059
+msgid "Level 1 Allowed Videos:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4065
+msgid "Level 2 Allowed Videos:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4071
+msgid "Level 3 Allowed Videos:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4097
+msgid "Enable Main Menu:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4103
+msgid "Homepage Pagination:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4109
+msgid "Number of Homepage Jobs:"
+msgstr "Number of Homepage Listings:"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4117
+msgid "Enable instant delivery file:"
+msgstr "Enable instant reservation agreement doc:"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4124
+msgid "Number of Extras:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4133
+msgid "Category Pages have sidebars?:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4140
+msgid "Enable second footer area?:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4147
+msgid "Mandatory to upload pictures for jobs:"
+msgstr "Mandatory to upload pictures for listings:"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4153
+msgid "Enable country flags:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4159
+msgid "IPI Info DB Key:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4166
+msgid "Max Amount of Pictures:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4174
+msgid "Show views in each job page:"
+msgstr "Show views in each listing page:"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4180
+msgid "Admin approves each job:"
+msgstr "Admin approves each listing:"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4187
+msgid "Admin approves each request:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4193
+msgid "Enable Blog:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4200
+msgid "Enable Extra Services:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4206
+msgid "Auto-mark job as completed after:"
+msgstr "Auto-mark reservation as completed after:"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4212
+msgid ""
+"After the time expires the job will be closed and your users can repost it. "
+"Leave 0 for never-expire jobs."
+msgstr ""
+"After the time expires the listing will be closed and your users can repost "
+"it. Leave 0 for never-expire jobs."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4213
+msgid "Job listing period:"
+msgstr "Resource listing period"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4219
+msgid "Featured job listing period:"
+msgstr "Featured listing period:"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4226
+msgid "Number of jobs show on homepage:"
+msgstr "Number of listings shown on homepage:"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4233
+msgid "Translation for \"I will\":"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4239
+msgid "Translation for \"for\":"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4250
+msgid "Slug for Jobs Permalink:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4256
+msgid "Slug for Location Permalink:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4262
+msgid "Slug for Category Permalink:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4288
+msgid "Filter Email Addresses (private messages):"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4294
+msgid "Filter URLs (private messages):"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4300
+msgid "Filter Email Addresses (chat box):"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4307
+msgid "Filter URLs (chat box):"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4330
+msgid "Enable Shipping:"
+msgstr "Enable Fixed Deposits:"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4336
+msgid "Enable only a flat fee:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4341
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6386
+msgid "OR"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4346
+msgid "Location based:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4370
+msgid "Enable Facebook Login:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4376
+msgid "Facebook App ID:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4382
+msgid "Facebook Secret Key:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4404
+msgid "Enable Twitter Login:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4410
+msgid "Twitter Consumer Key:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4416
+msgid "Twitter Consumer Secret:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4423
+msgid "Callback URL:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4526
+msgid "Bank Payment(offline)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4537
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4606
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4635
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4665
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4702
+msgid "Enable:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4543
+msgid "PayPal Enable Sandbox:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4549
+msgid "PayPal Email Address:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4555
+msgid "Enable PayPal Adaptive:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4560
+msgid "Payment Model:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4566
+msgid "Signature:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4572
+msgid "API Password:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4578
+msgid "API User:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4584
+msgid "Application ID:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4612
+msgid "Payza/Alertpay Email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4641
+msgid "MoneyBookers Email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4671
+msgid "iDeal Partner ID:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4708
+msgid "Bank Details:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4949
+msgid "New User Email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4950
+msgid "New User Email (admin)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4951
+msgid "Post Job Approved Email (admin)"
+msgstr "Post Listing Approved Email (admin)"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4952
+msgid "Post Job Not-approved Email (admin)"
+msgstr "Post Listing Not-approved Email (admin)"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4953
+msgid "Post Job Approved Email"
+msgstr "Post Listing Approved Email"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4954
+msgid "Post Job Not Approved Email"
+msgstr "Post Listing Not Approved Email"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4955
+msgid "Seller Job Purchase Email"
+msgstr "Co-Lab Reservation Email"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4956
+msgid "Buyer Job Purchase Email"
+msgstr "Fellow Reservation Request Email"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4957
+msgid "Private Message Email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4958
+msgid "New Chat Email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4959
+msgid "Job Delivered Email"
+msgstr "Checked-In Email"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4960
+msgid "Job Completed Email"
+msgstr "Checked-Out Email"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4961
+msgid "Feedback Left Email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4962
+msgid "Withdraw Request Email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4963
+msgid "Withdraw Released Email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4964
+msgid "Withdraw Rejected Email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4965
+msgid "Order Closed Email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4967
+msgid "Mutual Cancellation: Buyer"
+msgstr "Mutual Cancellation: Fellow"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4968
+msgid "Mutual Cancellation: Seller"
+msgstr "Mutual Cancellation: Co-Lab Host"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4975
+msgid ""
+"This email will be received by the buyer of the job when the seller requests "
+"a mutual cancellation.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+"This email will be received by the Fellow reserving the shared resource when "
+"the Co-Lab Host requests a mutual cancellation.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4986
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5049
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5257
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5317
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5377
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5438
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5498
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5560
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5622
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5686
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5748
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5809
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5870
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5931
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5992
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6054
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6115
+msgid "Enable this email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:4992
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5055
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5151
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5204
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5263
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5323
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5383
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5444
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5504
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5566
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5628
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5692
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5754
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5815
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5876
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5937
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5998
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6060
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6121
+msgid "Email Subject:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5000
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5063
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5159
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5212
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5271
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5331
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5391
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5452
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5512
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5574
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5636
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5700
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5762
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5823
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5884
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5945
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6006
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6068
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6129
+msgid "Email Content:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5010
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5073
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5169
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5222
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5281
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5341
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5401
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5462
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5522
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5584
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5646
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5710
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5772
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5833
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5894
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5955
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6016
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6078
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6139
+msgid "Here is a list of tags you can use in this email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5012
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5076
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5171
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5224
+msgid "your new username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5013
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5077
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5174
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5226
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5283
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5343
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5404
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5465
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5526
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5588
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5650
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5714
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5775
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5836
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5897
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5958
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6019
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6081
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6142
+msgid "the link to your user login page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5014
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5078
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5175
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5227
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5284
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5344
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5405
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5466
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5527
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5589
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5651
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5715
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5776
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5837
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5898
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5959
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6020
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6082
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6143
+msgid "your website's name"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5015
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5079
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5176
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5228
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5285
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5345
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5406
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5467
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5528
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5590
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5652
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5716
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5777
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5838
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5899
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5960
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6021
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6083
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6144
+msgid "your website's main address"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5016
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5080
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5286
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5346
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5407
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5468
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5529
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5591
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5653
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5717
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5778
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5839
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5900
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5961
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6022
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6084
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6145
+msgid "your website's my account link"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5017
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5081
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5287
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5347
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5408
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5469
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5530
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5592
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5718
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5779
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5840
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5901
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6146
+msgid "new new job's title"
+msgstr "new listing's title"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5018
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5082
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5288
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5348
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5409
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5470
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5531
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5593
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5719
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5780
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5841
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5902
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6147
+msgid "link for the new job"
+msgstr "link for the new listing"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5019
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5083
+msgid "message sent by the buyer"
+msgstr "message sent by the Fellow"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5038
+msgid ""
+"This email will be received by the seller of the job when the buyer requests "
+"a mutual cancellation.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5141
+msgid ""
+"This email will be received by all new users who register on your website. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5172
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5225
+msgid "your new user's email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5173
+msgid "your new user's password"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5194
+msgid ""
+"This email will be received by the admin when a new user registers on the "
+"website. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5246
+msgid ""
+"This email will be received by the admin when someone posts a job on the "
+"website website. This email will be received if the the job is automatically "
+"approved.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5306
+msgid ""
+"This email will be received by the admin when someone posts a job on the "
+"website website when approved.\n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5366
+msgid ""
+"This email will be received by your users after posting a new job on your "
+"website if the job is not automatically approved. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5403
+msgid "job owner username"
+msgstr "Co-Lab Host username"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5427
+msgid ""
+"This email will be received by your users after posting a new job on your "
+"website if the job is automatically approved. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5464
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5957
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6018
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6080
+msgid "username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5488
+msgid ""
+"This email will be received by the <strong>seller</strong> when they sell "
+"one of their jobs. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5524
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5587
+msgid "the seller's username"
+msgstr "the Co-Lab Host's username"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5525
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5586
+msgid "the buyer's username"
+msgstr "the Fellow's username"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5532
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5594
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5720
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5781
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5842
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6149
+msgid "the link for the chat private conversation"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5550
+msgid ""
+"This email will be received by the <strong>buyer</strong> when they purchase "
+"a new job. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5612
+msgid ""
+"This email will be received by your users when they receive a private "
+"message in their account. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5648
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5712
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5896
+msgid "the receiver username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5649
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5713
+msgid "the sender username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5654
+msgid "the subject of the message"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5655
+msgid "contents of message"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5656
+msgid "link to private messages area in account"
+msgstr "link to private messages in Dashboard area."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5676
+msgid ""
+"This email will be received by your users when they receive a new message on "
+"a chat for an order. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5738
+msgid ""
+"This email will be received by the buyer when the seller marks the job as "
+"done. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5774
+msgid "username of buyer"
+msgstr "username of Fellow"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5799
+msgid ""
+"This email will be received by the seller when the buyer accepts the job as "
+"delivered. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5835
+msgid "username of the seller"
+msgstr "username of the Co-Lab Host"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5860
+msgid ""
+"This email will be received by the seller when he received feedback from the "
+"buyer. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5921
+msgid ""
+"This email will be received by the user after he requests a withdrawal. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5962
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6023
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6085
+msgid "amount withdrawn"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5963
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6024
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6086
+msgid "requested withdraw method"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:5982
+msgid ""
+"This email will be received by the user after his withdrawal request has "
+"been processed. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6044
+msgid ""
+"This email will be received by the user after his withdrawal request has "
+"been rejected. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body. "
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6105
+msgid ""
+"This email will be received by the seller when the buyer cancels the job. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6141
+msgid "receiver's username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6177
+msgid "Comma (,)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6177
+msgid "Point (.)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6178
+msgid "In front of sum (eg: $50)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6178
+msgid "After the sum (eg: 50$)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6267
+msgid "Main Details"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6268
+msgid "Job Fees"
+msgstr "Listing Fees"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6269
+msgid "Job Values"
+msgstr "Listing Values"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6270
+msgid "Dropdown Job Values"
+msgstr "Dropdown Listing Values"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6280
+msgid "Site currency:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6287
+msgid "Currency symbol:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6293
+msgid "Currency symbol position:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6300
+msgid "Decimals sum separator:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6306
+msgid "Thousands sum separator:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6333
+msgid "New job listing fee:"
+msgstr "New listing fee:"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6339
+msgid "New featured job listing fee:"
+msgstr "New Featured Listing fee:"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6345
+msgid "Withdraw Limit:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6351
+msgid "If the percent is empty then the fixed amount value will be considered."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6352
+msgid "Fee taken from each job:"
+msgstr "Transaction Fee:"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6381
+msgid "Job fixed amount:"
+msgstr "Fixed Fee amount:"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6391
+msgid "Enable free text input:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6402
+msgid "Enable dropdown values:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6427
+msgid "Add new cost:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6434
+msgid "Add"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/admin_menu.php:6489
+msgid "No values added yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/advanced_search.php:36
+msgid "Advanced search for jobs"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/advanced_search.php:296
+msgid "No results found."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/advanced_search.php:312
+msgid "Search Filters"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/advanced_search.php:316
+msgid "Search Term:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/advanced_search.php:322
+msgid "Category:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/advanced_search.php:326
+msgid "Everything"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/advanced_search.php:331
+msgid "Location:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/advanced_search.php:335
+msgid "Everywhere"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/advanced_search.php:341
+msgid "Filter Results"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/all_categories.php:14
+msgid "All Categories"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/all_locations.php:15
+msgid "All Locations"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/blog_posts.php:25
+msgid "All Blog Posts"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/blog_posts.php:47
+msgid "There are no posts."
+msgstr "There are no shared resources."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/cancel_job_request.php:40
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/cancel_job_request.php:63
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/cancellation_answer.php:53
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/cancellation_answer.php:97
+#, php-format
+msgid "Payment refunded for job: <a href=\"%s\">%s</a>"
+msgstr "Payment refunded for reservation: <a href=\"%s\">%s</a>"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/cancel_job_request.php:90
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/request_mutual_cancelation.php:107
+#, php-format
+msgid "Request Order Cancellation #%s - %s"
+msgstr "Request Reservation Cancellation #%s - %s"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/cancel_job_request.php:99
+msgid ""
+"You are about to request cancellation for this job. By using this option you "
+"are asking the buyer to cancel the order. \n"
+"\t\t\t\t\t\tIf he agrees with this, and cancels the order, the money gets "
+"refunded into his account and you will not get a bad review over it."
+msgstr ""
+"You are about to request cancellation for this reservation. By using this "
+"option you are asking the Fellow to cancel the order. \n"
+"\t\t\t\t\t\t If Fellow agrees with this, and mutually cancels the "
+"reservation, the money gets refunded into their account and you will not get "
+"a bad review over it."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/cancel_job_request.php:103
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/request_mutual_cancelation.php:120
+msgid "Your message to the buyer: "
+msgstr "Your message to the Fellow: "
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/cancel_job_request.php:107
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/cancel_job_request.php:130
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/request_mutual_cancelation.php:126
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/request_mutual_cancelation.php:149
+msgid "Click yes to confirm or your back browser button."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/cancel_job_request.php:111
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/cancel_job_request.php:134
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/request_mutual_cancelation.php:130
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/request_mutual_cancelation.php:153
+msgid "Yes, Confirm Cancellation"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/cancel_job_request.php:122
+msgid ""
+"You are about to request cancellation for this job. By using this option you "
+"are forcing cancelling this order. \n"
+"\t\t\t\t\t\tThe money gets refunded into the buyer's account, and you will "
+"get a bad review over the job."
+msgstr ""
+"You are about to request cancellation for this reservation. By using this "
+"option you are forcing canceling this reservation. \n"
+"\t\t\t\t\t\t The money gets refunded into the Fellow's account, and you will "
+"get a bad review over the listing."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/chat_box.php:5
+msgid "Chat Box"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/chat_box.php:58
+#, php-format
+msgid "Conversation #%s - %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/chat_box.php:126
+msgid "Make sure your file is: zip, rar or image format."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/chat_box.php:135
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:656
+msgid "Your message has been sent."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/chat_box.php:148
+msgid "ERROR! Your message is emtpy."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/chat_box.php:179
+msgid "The order has been sent to the seller."
+msgstr "The reservation request has been sent to the Co-Lab Host."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/chat_box.php:206
+msgid ""
+"The order has been marked as delivered by the seller.<br/>Please review your "
+"order under Reviews and Shopping section."
+msgstr ""
+"You have been Checked-In by the Co-Lab Host.<br/>Please review your "
+"reservation status under Reviews and 'My Reservations' section in "
+"Dashboard.  If there are any issues, please notify Co-Lab Host via "
+"Conversation Page."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/chat_box.php:212
+msgid ""
+"The order has been accepted by the buyer.<br/>Please review your order under "
+"Reviews/Feedback section"
+msgstr ""
+"The Fellow has self Checked-Out.<br/>Please review your completed "
+"reservations under Reviews/Feedback section"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/chat_box.php:218
+msgid "The seller has requested a mutual cancellation for this order."
+msgstr ""
+"The Co-Lab Host has requested a mutual cancellation for this reservation."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/chat_box.php:224
+msgid "The buyer has requested a mutual cancellation for this order."
+msgstr "The Fellow has requested a mutual cancellation for this order."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/chat_box.php:255
+msgid "Files attached"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/chat_box.php:273
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:694
+msgid "Message"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/chat_box.php:278
+msgid "Attach File"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/chat_box.php:286
+msgid "Send"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/close-job.php:32
+#, php-format
+msgid "Amount refunded for cancelled job: <a href=\"%s\">%s</a>"
+msgstr "Amount refunded for cancelled reservation: <a href=\"%s\">%s</a>"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/deactivate_job.php:5
+msgid "Dectivate job"
+msgstr "Deactivate Shared Resource"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/deactivate_job.php:43
+#, php-format
+msgid "Deactivate Job - %s"
+msgstr "Deactivate Shared Resource - %s"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/deactivate_job.php:53
+#, php-format
+msgid ""
+"The job has been deactivated. <a href='%s'>Go back</a> to your jobs area."
+msgstr ""
+"The shared resource has been deactivated. <a href='%s'>Go back</a> to your "
+"listings area."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/deactivate_job.php:61
+msgid "Are you sure you want to deactivate this job?"
+msgstr "Are you sure you want to deactivate this shared resource?"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/deactivate_job.php:62
+msgid "Confirm Deactivation"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/delete_job.php:5
+msgid "Delete job"
+msgstr "Delete Shared Resource"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/delete_job.php:43
+#, php-format
+msgid "Delete Job - %s"
+msgstr "Delete Shared Resource - %s"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/delete_job.php:52
+#, php-format
+msgid "The job has been deleted. <a href='%s'>Go back</a> to your account."
+msgstr ""
+"The shared resource has been deleted. <a href='%s'>Go back</a> to your "
+"account Dashboard area."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/delete_job.php:60
+msgid "Are you sure you want to delete this job?"
+msgstr "Are you sure you want to delete this shared resource?"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/delete_job.php:61
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:579
+msgid "Confirm Deletion"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:12
+msgid "Edit job"
+msgstr "Edit Shared Resource"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:245
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new_post.php:311
+msgid "You cannot leave the job price blank!"
+msgstr "You cannot leave the rental rate blank!"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:246
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new_post.php:312
+msgid "The job price must be numeric. No strings allowed!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:248
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new_post.php:314
+msgid "The job price must be higher than 0!"
+msgstr "The rental rate must be higher than 0!"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:250
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new_post.php:316
+msgid "You cannot leave the job title blank!"
+msgstr "You cannot leave the listing title blank!"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:251
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new_post.php:317
+msgid "You cannot leave the job description blank!"
+msgstr "You cannot leave the shared resource's description blank!"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:252
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new_post.php:318
+msgid "Please select a category for your job."
+msgstr "Please select a category for your shared resource."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:308
+#, php-format
+msgid "Edit Job - %s"
+msgstr "Edit Shared Resource - %s"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:335
+msgid "Your job has been saved."
+msgstr "Your shared resource listing has been saved"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:343
+msgid "ERROR: You can only attach ZIP files."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:399
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new.php:150
+msgid "Category"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:402
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new.php:153
+msgid "Select Category"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:407
+msgid "Location"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:410
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/personal_info.php:121
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new.php:211
+msgid "Select Location"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:421
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new.php:190
+msgid "Min: 100 chars. Max: 500"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:427
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new.php:195
+msgid "Instructions to buyer"
+msgstr "Instructions to Fellow"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:449
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new.php:218
+msgid "Tags"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:478
+msgid "Max Days do Deliver"
+msgstr "Max Days to Respond"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:493
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new.php:256
+msgid "Instant Delivery File"
+msgstr "Instant Reservation Agreement"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:512
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new.php:275
+msgid "Only ZIP Files"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:538
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new.php:302
+msgid "Images"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:624
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new.php:380
+#, php-format
+msgid "Youtube Video Link #%s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:637
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new.php:396
+msgid "Feature job?"
+msgstr "Feature your shared resource?"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:644
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new.php:404
+#, php-format
+msgid ""
+"By clicking this checkbox you mark your job as featured. Extra fee of %s is "
+"applied."
+msgstr ""
+"By clicking this checkbox you mark your shared resource listing as featured. "
+"Extra fee of %s is applied."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:690
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new.php:446
+msgid "I will:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/edit_job.php:703
+msgid "Save Job"
+msgstr "Save Shared Resource Listing"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/bank.php:7
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/credits.php:7
+msgid "Pay for your job"
+msgstr "Pay for listing your Shared Resource"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/bank.php:107
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/credits.php:107
+#, php-format
+msgid "Payment for job: %s"
+msgstr "Payment for listing your Shared Resource: %s"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/bank.php:166
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/credits.php:169
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/moneybookers_response.php:148
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/paypal_response.php:152
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/payza_response.php:196
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/return_chained.php:155
+#, php-format
+msgid "A new job has been purchased on your site: <a href=\"%s\">%s</a>"
+msgstr "A new reservation has been booked on your site: <a href=\"%s\">%s</a>"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/bank.php:169
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/credits.php:172
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/moneybookers_response.php:151
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/paypal_response.php:155
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/payza_response.php:199
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/return_chained.php:158
+#, php-format
+msgid "New Job Purchased on your site - %s"
+msgstr "New Reservation Purchased on Lab Fellows - %s"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/bank.php:188
+msgid "Purchase job, and pay by bank"
+msgstr "Make reservation, and pay by bank"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/bank.php:191
+msgid "You have can see the bank details below."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/credits.php:191
+msgid "Purchase with your balance"
+msgstr "Make reservation with your account's credit balance"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/credits.php:194
+#, php-format
+msgid ""
+"You have %s in your balance. Click confirm now to pay using your balance."
+msgstr ""
+"You have %s in your credit balance. Click confirm now to pay using your "
+"credits."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/credits.php:196
+msgid "Confirm Purchase"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/moneybookers.php:59
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/pay_listing_moneybookers.php:27
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/pay_listing_payza.php:27
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/payza.php:57
+msgid "Please wait, your order is being processed..."
+msgstr "Please wait, your reservation is being processed..."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/pay_featured_listing_credits.php:5
+msgid "Pay for featured job"
+msgstr "Pay to Feature your shared resource"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/pay_featured_listing_credits.php:35
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/pay_for_job.php:43
+#, php-format
+msgid "Pay for job: %s"
+msgstr "Pay for listing your shared resource: %s"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/pay_featured_listing_credits.php:42
+#, php-format
+msgid ""
+"Your payment has been received. <a href=\"%s\">Go back</a> to your account"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/pay_featured_listing_credits.php:60
+#, php-format
+msgid "Payment for listing featured job: %s"
+msgstr "Payment for listing featured shared resource: %s"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/pay_featured_listing_credits.php:85
+#, php-format
+msgid ""
+"You are about to pay for the listing fee using your balance. <br/>The fee is "
+"<b>%s</b>. Your current credit amount is %s."
+msgstr ""
+"You are about to pay for the listing fee using your account's credit "
+"balance. <br/>The fee is <b>%s</b>. Your current credit balance is %s."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/pay_featured_listing_credits.php:99
+msgid "Confirm Payment"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/pay_featured_listing_credits.php:100
+msgid "Go Back"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/pay_listing_moneybookers.php:47
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/pay_listing_payza.php:32
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/pay_listing_payza.php:33
+#, php-format
+msgid "Listing Fee %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/gateways/pay_listing_paypal.php:69
+#, php-format
+msgid "Listing Fee: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:84
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:250
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:263
+msgid "Sorry, that key does not appear to be valid."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:99
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:122
+msgid "Retrieve Password"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:108
+msgid "Please enter your information here. We will send you a new password."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:114
+msgid "Username or Email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:131
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:448
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:145
+msgid "Are you lost?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:135
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:392
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:66
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:146
+msgid "Login"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:175
+msgid "Retrieve Error"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:180
+#, php-format
+msgid ""
+"Sorry, that user does not seem to exist in our database. Perhaps you have "
+"the wrong username or e-mail address? <a href=\"%s\">Try again</a>."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:201
+msgid ""
+"Someone has asked to reset the password for the following site and username."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:203
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:279
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:60
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/sett.php:113
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:204
+msgid ""
+"To reset your password visit the following address, otherwise just ignore "
+"this email and nothing will happen."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:208
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/sett.php:125
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:214
+msgid "There Was a Problem"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:215
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:288
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/sett.php:131
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:216
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:289
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:221
+#, php-format
+msgid "The e-mail was sent successfully to %s's e-mail address."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:222
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:295
+msgid "Check your e-mail first, of course"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:223
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:296
+msgid "Click here to login!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:249
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:262
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:287
+msgid "<h1>Problem</h1>"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:280
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:61
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:283
+#, php-format
+msgid "[%s] Your new password"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:293
+msgid "<h1>Success!</h1>"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:294
+msgid "Your new password is in the mail."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:298
+#, php-format
+msgid "Password Lost and Changed for user: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:299
+#, php-format
+msgid "[%s] Password Lost/Change"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:376
+msgid "Your session has expired."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:379
+msgid "<strong>Error</strong>: The password field is empty."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:400
+msgid ""
+"We have sent a confirmation message to your email address.<br/>\n"
+"\t\t\t\t\tPlease follow the instructions in the email and get back to this "
+"page."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:421
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:118
+msgid "Username:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:426
+msgid "Password:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:432
+msgid "Keep me logged in"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:440
+msgid "Sign in"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:453
+msgid "Password Lost and Found"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/login.php:453
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:147
+msgid "Lost your password?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:48
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:59
+msgid "Registration Complete"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:61
+msgid "emailed to you"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:62
+#, php-format
+msgid "E-mail: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:63
+msgid ""
+"Please check your <strong>Junk Mail</strong> if your account information "
+"does not appear within 5 minutes."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:123
+msgid "E-mail:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:131
+msgid "A password will be emailed to you."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:147
+msgid "Password Lost?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:168
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:180
+msgid "Registration Disabled"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:184
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:185
+msgid "Go back to the blog"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:210
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:212
+msgid ""
+"<strong>ERROR</strong>: This username is invalid because it uses illegal "
+"characters. Please enter a valid username."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:215
+msgid ""
+"<strong>ERROR</strong>: This username is already registered, please choose "
+"another one."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:220
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:222
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:225
+msgid ""
+"<strong>ERROR</strong>: This email is already registered, please choose "
+"another one."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/register.php:238
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a "
+"href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/sett.php:68
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/sett.php:72
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/sett.php:85
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/sett.php:99
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/sett.php:111
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/sett.php:114
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/sett.php:115
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/login_register/sett.php:131
+msgid ""
+"Possible reason: your host may have disabled the \n"
+"\t\tmail() function..."
+msgstr ""
+"Possible reason: Lab Fellows may have disabled the \n"
+"\t\tmail() function..."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/cancellation_answer.php:36
+msgid ""
+"The seller of this job has requested a mutual cancellation for this order. "
+"Please accept or deny it using the controls below:"
+msgstr ""
+"The Co-Lab Host of this listing has requested a mutual cancellation for this "
+"reservation on %s. <br/>Co-Lab Host's Message: <span class=\"en_em\">%s</"
+"span> <br/><br/> <b><a href=\"%s\">Answer this request</a></b>."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/cancellation_answer.php:78
+msgid ""
+"The buyer of this job has requested a mutual cancellation for this order. "
+"Please accept or deny it using the controls below:"
+msgstr ""
+"The Fellow has requested a mutual cancellation for this reservation. Please "
+"accept or deny it using the controls below:"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/cancellation_answer.php:129
+#, php-format
+msgid "Answer Cancellation Request: #%s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/cancellation_answer.php:144
+#, php-format
+msgid ""
+"You have accepted the cancellation request. You can <b><a href=\"%s\">go "
+"back</a></b> now"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/cancellation_answer.php:152
+#, php-format
+msgid ""
+"You have not accepted the cancellation request. You can <b><a href=\"%s\">go "
+"back</a></b> now"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/cancellation_answer.php:164
+#, php-format
+msgid "Job Title: %s"
+msgstr "Listing Title: %s"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/cancellation_answer.php:178
+msgid "Accept Cancellation"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/cancellation_answer.php:179
+msgid "Deny Cancellation"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/my_account.php:57
+#, php-format
+msgid "You have %s unread message(s) on the order for: <a href=\"%s\">%s</a>"
+msgstr ""
+"You have %s unread message(s) on the reservation booked for: <a href=\"%s\">"
+"%s</a>"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/my_account.php:81
+msgid "Inactive"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/my_account.php:85
+msgid "In Review"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/my_account.php:112
+msgid "There are no jobs yet."
+msgstr "There are no shared resources yet."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:32
+msgid "My Payments"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:39
+msgid "Withdraw Money"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:72
+msgid "Request canceled!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:88
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:212
+#, php-format
+msgid "Your Current Balance is: %s"
+msgstr "Your Current Account Balance is: (%s)"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:100
+msgid "Pending Withdrawals"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:112
+msgid "No withdrawals pending yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:125
+msgid "Close Request"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:145
+msgid "Pending Incoming Payments"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:166
+msgid "No payments pending yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:203
+msgid "Request Withdrawal"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:233
+msgid "ERROR: Provide a well formated amount."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:238
+msgid "ERROR: Invalid email provided."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:243
+#, php-format
+msgid "ERROR: The amount must be higher than: %s."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:254
+msgid "ERROR: Your balance is smaller than the amount requested."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:289
+msgid "Your request has been queued. Redirecting..."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:317
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:346
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:373
+msgid "Withdraw amount:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:321
+msgid "PayPal Email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:327
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:356
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:383
+msgid "Withdraw"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:350
+msgid "Moneybookers Email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:377
+msgid "Payza Email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/payments.php:413
+msgid "No activity yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/personal_info.php:62
+msgid "Password was not changed. It does not match the password confirmation."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/personal_info.php:96
+msgid "Information saved!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/personal_info.php:106
+msgid "Your Full Name"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/personal_info.php:112
+msgid "Your Location"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/personal_info.php:127
+msgid "New Password"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/personal_info.php:133
+msgid "Repeat Password"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/personal_info.php:140
+msgid "PayPal Email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/personal_info.php:147
+msgid "Profile Description"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/personal_info.php:153
+msgid "Profile Avatar"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/personal_info.php:155
+msgid "max file size: 2mb. Formats: jpeg, jpg, png, gif"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/personal_info.php:163
+msgid "Save"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:42
+msgid "Messaging Home"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:43
+msgid "Send New Message"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:44
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:186
+msgid "Inbox"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:52
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:336
+msgid "Sent Items"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:71
+msgid "Latest Received Messages"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:83
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:215
+msgid "From User"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:85
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:139
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:217
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:366
+msgid "Date"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:102
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:157
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:234
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:384
+msgid "Read"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:110
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:166
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:313
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:463
+msgid "No messages here."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:125
+msgid "Latest Sent Items"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:137
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:364
+msgid "To User"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:497
+msgid "Read Message: "
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:531
+msgid "Reply"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:569
+msgid "Delete Message: "
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:664
+msgid "Invalid username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:677
+msgid "Send Private Message to: "
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:683
+msgid "Send To"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/private_messages.php:705
+msgid "Send Message"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/reviews.php:38
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/reviews.php:55
+msgid "My Ratings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/reviews.php:53
+msgid "Ratings to Award"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/reviews.php:54
+msgid "Pending Ratings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/reviews.php:78
+msgid "Please input a longer description for your rating"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/reviews.php:145
+msgid "Submit Rating Now"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/reviews.php:165
+msgid "There are no reviews to be awarded."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/reviews.php:204
+#, php-format
+msgid "Waiting from: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/reviews.php:224
+msgid "You have no pending reviews."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/reviews.php:266
+msgid "Rated"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/reviews.php:296
+msgid "You have no reviews."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/sales.php:39
+msgid "My Sales"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/sales.php:63
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/shopping.php:59
+#, php-format
+msgid "Active Jobs (%s)"
+msgstr "Active Listings (%s)"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/sales.php:64
+#, php-format
+msgid "Delivered (%s)"
+msgstr "Checked-In (%s)"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/sales.php:65
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/shopping.php:62
+#, php-format
+msgid "Completed (%s)"
+msgstr "Checked-Out (%s)"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/sales.php:66
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/shopping.php:61
+#, php-format
+msgid "Cancelled (%s)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/sales.php:87
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/shopping.php:79
+msgid "No active jobs"
+msgstr "No active reservations."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/sales.php:114
+msgid "No delivered jobs."
+msgstr "No Fellows Checked-In."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/sales.php:141
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/shopping.php:127
+msgid "No cancelled jobs."
+msgstr "No cancelled reservations."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/sales.php:169
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/shopping.php:151
+msgid "No completed jobs."
+msgstr "Fellow must still self Check-Out."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/shopping.php:51
+msgid "My Shopping"
+msgstr "My Reservations"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/shopping.php:60
+#, php-format
+msgid "Pending my Review (%s)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/my_account/shopping.php:103
+msgid "No pending review jobs."
+msgstr "No reservation requests pending review."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/pay_for_job.php:47
+#, php-format
+msgid ""
+"You are about to pay for the listing fees for your new job. <br/>The fee is "
+"<b>%s</b>. Please use the following payment methods."
+msgstr ""
+"You are about to pay the listing fee for promoting your co-lab space and/or "
+"shared equipment through the Lab Fellows online platform. <br/>The fee is <b>"
+"%s</b>. Please use the following payment methods:"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/pay_for_job.php:55
+msgid "Pay with PayPal"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/pay_for_job.php:63
+msgid "Pay with Moneybookers"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/pay_for_job.php:71
+msgid "Pay with Payza"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/pay_for_job.php:77
+msgid "Pay by Virtual Currency"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new.php:51
+msgid "Post New Job"
+msgstr "Add New Shared Resource"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new.php:202
+msgid "Job Location"
+msgstr "Location"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new.php:219
+msgid "separate your tags by comma"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new.php:244
+msgid "Max Days to Deliver"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new.php:460
+msgid "Post Job"
+msgstr "Add Shared Resource"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new_post.php:301
+msgid "You need to upload at least one image for your job!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new_post.php:309
+msgid "Please only upload zip files as instant delivery!"
+msgstr ""
+"Please only upload zip files as instant reservation agreement document!"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new_post.php:325
+msgid "Please provide max days for delivery."
+msgstr ""
+"Please provide max response days to accept/reject reservation requests."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/post_new_post.php:326
+msgid "Max days must be a number > 0"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/purchase-this.php:6
+msgid "Purchase job"
+msgstr "Rent shared time"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/purchase-this.php:38
+msgid "Review and Choose Payment Method"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/purchase-this.php:78
+msgid "Job Base Price"
+msgstr "Rental Base Price"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/purchase-this.php:122
+msgid "Total Price to Pay"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/purchase-this.php:152
+msgid "Pay by PayPal"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/purchase-this.php:167
+msgid "Pay by Moneybookers"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/purchase-this.php:179
+msgid "Pay by Payza"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/purchase-this.php:191
+msgid "Pay by Bank(Offline)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/purchase-this.php:200
+msgid "Pay with Balance"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/request_mutual_cancelation.php:116
+msgid ""
+"You are about to request cancellation for this job. By using this option you "
+"are asking the buyer to mutually cancel the order. \n"
+"\t\t\t\t\t\tIf he agrees, and cancels the order, the money gets refunded "
+"into his account and you will not get a bad review over it."
+msgstr ""
+"You are about to request cancellation for this reservation. By using this "
+"option you are asking the Fellow to mutually cancel the reservation. \n"
+"\t\t\t\t\t\t If the Fellow agrees, and mutually cancels the reservation, the "
+"money gets refunded into Fellow's account and you will not get a bad review "
+"over it."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/request_mutual_cancelation.php:140
+msgid ""
+"You are about to request cancellation for this job. By using this option you "
+"are asking the seller to mutually cancel the order. \n"
+"\t\t\t\t\t\tIf he agrees, and cancels the order, the money gets refunded "
+"into your account and you will not get a bad review over it."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/request_mutual_cancelation.php:144
+msgid "Your message to the seller: "
+msgstr "Your message to Co-Lab Host: "
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/social/social.php:37
+msgid "Connect with:"
+msgstr "Login with:"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/submit_request.php:44
+msgid "Request not submitted"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/submit_request.php:48
+msgid ""
+"Your request has not been submitted for approval.<br/>Please make sure you "
+"input some words."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/submit_request.php:55
+msgid "Request Submitted"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/submit_request.php:61
+msgid "Your request has been submitted for approval."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/submit_request.php:65
+msgid "Your request has been approved."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/user_profile.php:17
+msgid "no activity"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/user_profile.php:40
+#, php-format
+msgid "Rated: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/user_profile.php:41
+#, php-format
+msgid "Joined %s ago"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/user_profile.php:43
+#, php-format
+msgid "last activity: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/browse-by-category.php:231
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/category-with-images.php:90
+msgid "See More Categories"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/browse-by-category.php:246
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/browse-by-location.php:246
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/category-with-images.php:105
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/latest-featured-jobs.php:75
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/latest-posted-jobs.php:67
+msgid "Title"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/browse-by-category.php:251
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/browse-by-location.php:251
+msgid "Number of Columns"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/browse-by-category.php:266
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/browse-by-location.php:266
+msgid "Number of Rows"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/browse-by-category.php:273
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/browse-by-location.php:273
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/category-with-images.php:111
+msgid "Only show categories below"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/browse-by-category.php:279
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/browse-by-location.php:279
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/category-with-images.php:117
+msgid "Categories to show"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/browse-by-location.php:231
+msgid "See More Locations"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/category-with-images.php:93
+msgid "There are no categories defined."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/latest-featured-jobs.php:59
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/latest-posted-jobs.php:52
+msgid "Sorry, there are no posted jobs yet."
+msgstr "Sorry, there are no shared resources yet."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/latest-featured-jobs.php:82
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/latest-posted-jobs.php:74
+msgid "Show jobs limit"
+msgstr "Show shared resources limit"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/latest-posted-jobs.php:11
+msgid "Show latest posted jobs"
+msgstr "Show latest shared resources"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/latest-posted-jobs.php:13
+msgid "PricerrTheme - Latest jobs"
+msgstr "Lab Fellows Theme - Latest Shares"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/request-widget.php:31
+msgid "I am looking for <br/>someone who will"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/request-widget.php:34
+msgid "in"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/request-widget.php:36
+msgid "Suggest"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/request-widget.php:41
+msgid "See All Requests"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/lib/widgets/request-widget.php:91
+msgid "Number of requests"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:60
+msgid "This job has been disabled."
+msgstr "This resource has been unshared."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:112
+msgid "JOB RATING"
+msgstr "RESOURCE's RATING"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:116
+msgid "DELIVERY in"
+msgstr "RESPONSE TIME"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:120
+msgid "INSTANT"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:123
+msgid "24 HOURS"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:125
+#, php-format
+msgid "%s DAYS"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:131
+msgid "ORDERS in QUEUE"
+msgstr "RESERVATIONS in QUEUE"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:136
+msgid "SELLER RATING"
+msgstr "CO-LAB's RATING"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:148
+msgid "views"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:206
+msgid "Tags:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:247
+#, php-format
+msgid "created %s ago"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:250
+#, php-format
+msgid "%s ratings for job"
+msgstr "%s ratings for listing"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:253
+#, php-format
+msgid "%s likes for this job"
+msgstr "%s likes for this listing"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:300
+msgid "Job Videos"
+msgstr "Videos"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:334
+msgid "No videos attached with this job."
+msgstr "No videos attached with this listing."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:345
+msgid "Latest Feedback"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:394
+#, php-format
+msgid "wrote %s ago"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:427
+msgid "The job doesnt have feedback yet."
+msgstr "The shared resource does not have feedback yet."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:438
+#, php-format
+msgid "Other jobs by %s"
+msgstr "Other shared resources by %s"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:495
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:575
+msgid "No other jobs posted."
+msgstr "No other shared resources."
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:510
+msgid "Related jobs"
+msgstr "Related shared resources"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:670
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:676
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:732
+msgid "Purchase Now"
+msgstr "Reserve"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:701
+msgid "Order Additional"
+msgstr "Labmenities™ Offered by Co-Lab:"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PricerrTheme/single-job.php:725
+#, php-format
+msgid "Shipping Cost: %s"
+msgstr "Clean & Maintenance Fee: %s"

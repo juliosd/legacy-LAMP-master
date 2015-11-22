@@ -1,0 +1,4 @@
+[06-Mar-2014 17:55:39 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/index.php on line 12
+[06-Mar-2014 17:56:25 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/index.php on line 12
+[06-Mar-2014 17:56:57 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/index.php on line 12
+[06-Mar-2014 17:57:40 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/index.php on line 12

@@ -1,0 +1,184 @@
+[04-Mar-2014 05:19:14 UTC] PHP Fatal error:  Cannot redeclare jobTheme_posts_where() (previously declared in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/latest-jobs.php:88) in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/latest-jobs.php on line 94
+[04-Mar-2014 06:16:42 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/index.php on line 45
+[07-Mar-2014 09:07:19 UTC] PHP Fatal error:  Call to undefined function PricerrTheme_post_new_area_function() in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/functions.php on line 872
+[07-Mar-2014 09:09:31 UTC] PHP Parse error:  syntax error, unexpected $end in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/lib/post_new.php on line 146
+[07-Mar-2014 14:25:44 UTC] PHP Fatal error:  Call to undefined function PricerrTheme_is_home() in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/header.php on line 142
+[07-Mar-2014 15:15:43 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/functions.php on line 406
+[07-Mar-2014 15:16:08 UTC] PHP Parse error:  syntax error, unexpected $end in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/functions.php on line 403
+[07-Mar-2014 15:16:47 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/functions.php on line 3175
+[07-Mar-2014 15:34:23 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 206
+[07-Mar-2014 16:34:49 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 206
+[07-Mar-2014 17:13:31 UTC] PHP Parse error:  syntax error, unexpected $end in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/lib/purchase-this.php on line 169
+[08-Mar-2014 05:15:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 803
+[08-Mar-2014 05:21:07 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (1394244004) at position 7 (0): Unexpected character' in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php:807
+Stack trace:
+#0 /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php(807): DateTime->__construct('1394244004')
+#1 /home/wdsc015/public_html/dev/wp-includes/template-loader.php(74): include('/home/wdsc015/p...')
+#2 /home/wdsc015/public_html/dev/wp-blog-header.php(16): require_once('/home/wdsc015/p...')
+#3 /home/wdsc015/public_html/dev/index.php(17): require('/home/wdsc015/p...')
+#4 {main}
+  thrown in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 807
+[08-Mar-2014 05:25:08 UTC] PHP Warning:  DateTime::format() expects exactly 1 parameter, 2 given in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 810
+[08-Mar-2014 05:25:08 UTC] PHP Warning:  DateTime::format() expects exactly 1 parameter, 2 given in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 811
+[08-Mar-2014 05:25:42 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 589
+[08-Mar-2014 05:31:38 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (@) at position 0 (@): Unexpected character' in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php:808
+Stack trace:
+#0 /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php(808): DateTime->__construct('@', Object(DateTimeZone))
+#1 /home/wdsc015/public_html/dev/wp-includes/template-loader.php(74): include('/home/wdsc015/p...')
+#2 /home/wdsc015/public_html/dev/wp-blog-header.php(16): require_once('/home/wdsc015/p...')
+#3 /home/wdsc015/public_html/dev/index.php(17): require('/home/wdsc015/p...')
+#4 {main}
+  thrown in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 808
+[08-Mar-2014 05:33:22 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (@) at position 0 (@): Unexpected character' in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php:808
+Stack trace:
+#0 /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php(808): DateTime->__construct('@', Object(DateTimeZone))
+#1 /home/wdsc015/public_html/dev/wp-includes/template-loader.php(74): include('/home/wdsc015/p...')
+#2 /home/wdsc015/public_html/dev/wp-blog-header.php(16): require_once('/home/wdsc015/p...')
+#3 /home/wdsc015/public_html/dev/index.php(17): require('/home/wdsc015/p...')
+#4 {main}
+  thrown in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 808
+[08-Mar-2014 05:33:31 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (@) at position 0 (@): Unexpected character' in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php:810
+Stack trace:
+#0 /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php(810): DateTime->__construct('@', Object(DateTimeZone))
+#1 /home/wdsc015/public_html/dev/wp-includes/template-loader.php(74): include('/home/wdsc015/p...')
+#2 /home/wdsc015/public_html/dev/wp-blog-header.php(16): require_once('/home/wdsc015/p...')
+#3 /home/wdsc015/public_html/dev/index.php(17): require('/home/wdsc015/p...')
+#4 {main}
+  thrown in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 810
+[08-Mar-2014 05:34:15 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (@) at position 0 (@): Unexpected character' in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php:810
+Stack trace:
+#0 /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php(810): DateTime->__construct('@')
+#1 /home/wdsc015/public_html/dev/wp-includes/template-loader.php(74): include('/home/wdsc015/p...')
+#2 /home/wdsc015/public_html/dev/wp-blog-header.php(16): require_once('/home/wdsc015/p...')
+#3 /home/wdsc015/public_html/dev/index.php(17): require('/home/wdsc015/p...')
+#4 {main}
+  thrown in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 810
+[08-Mar-2014 05:35:24 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (@) at position 0 (@): Unexpected character' in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php:812
+Stack trace:
+#0 /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php(812): DateTime->__construct('@')
+#1 /home/wdsc015/public_html/dev/wp-includes/template-loader.php(74): include('/home/wdsc015/p...')
+#2 /home/wdsc015/public_html/dev/wp-blog-header.php(16): require_once('/home/wdsc015/p...')
+#3 /home/wdsc015/public_html/dev/index.php(17): require('/home/wdsc015/p...')
+#4 {main}
+  thrown in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 812
+[08-Mar-2014 05:35:48 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (@) at position 0 (@): Unexpected character' in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php:812
+Stack trace:
+#0 /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php(812): DateTime->__construct('@')
+#1 /home/wdsc015/public_html/dev/wp-includes/template-loader.php(74): include('/home/wdsc015/p...')
+#2 /home/wdsc015/public_html/dev/wp-blog-header.php(16): require_once('/home/wdsc015/p...')
+#3 /home/wdsc015/public_html/dev/index.php(17): require('/home/wdsc015/p...')
+#4 {main}
+  thrown in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 812
+[08-Mar-2014 05:36:22 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (@) at position 0 (@): Unexpected character' in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php:812
+Stack trace:
+#0 /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php(812): DateTime->__construct('@')
+#1 /home/wdsc015/public_html/dev/wp-includes/template-loader.php(74): include('/home/wdsc015/p...')
+#2 /home/wdsc015/public_html/dev/wp-blog-header.php(16): require_once('/home/wdsc015/p...')
+#3 /home/wdsc015/public_html/dev/index.php(17): require('/home/wdsc015/p...')
+#4 {main}
+  thrown in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 812
+[08-Mar-2014 05:36:39 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (@) at position 0 (@): Unexpected character' in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php:812
+Stack trace:
+#0 /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php(812): DateTime->__construct('@')
+#1 /home/wdsc015/public_html/dev/wp-includes/template-loader.php(74): include('/home/wdsc015/p...')
+#2 /home/wdsc015/public_html/dev/wp-blog-header.php(16): require_once('/home/wdsc015/p...')
+#3 /home/wdsc015/public_html/dev/index.php(17): require('/home/wdsc015/p...')
+#4 {main}
+  thrown in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 812
+[08-Mar-2014 05:38:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 806
+[08-Mar-2014 05:39:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 806
+[08-Mar-2014 05:39:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/lib/purchase-this.php on line 81
+[08-Mar-2014 05:39:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 806
+[08-Mar-2014 05:42:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 806
+[08-Mar-2014 05:42:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/lib/gateways/credits.php on line 139
+[08-Mar-2014 05:42:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/lib/gateways/credits.php:139) in /home/wdsc015/public_html/dev/wp-includes/pluggable.php on line 896
+[08-Mar-2014 05:45:02 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (@) at position 0 (@): Unexpected character' in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php:812
+Stack trace:
+#0 /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php(812): DateTime->__construct('@')
+#1 /home/wdsc015/public_html/dev/wp-includes/template-loader.php(74): include('/home/wdsc015/p...')
+#2 /home/wdsc015/public_html/dev/wp-blog-header.php(16): require_once('/home/wdsc015/p...')
+#3 /home/wdsc015/public_html/dev/index.php(17): require('/home/wdsc015/p...')
+#4 {main}
+  thrown in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 812
+[08-Mar-2014 05:45:33 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (@) at position 0 (@): Unexpected character' in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php:812
+Stack trace:
+#0 /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php(812): DateTime->__construct('@')
+#1 /home/wdsc015/public_html/dev/wp-includes/template-loader.php(74): include('/home/wdsc015/p...')
+#2 /home/wdsc015/public_html/dev/wp-blog-header.php(16): require_once('/home/wdsc015/p...')
+#3 /home/wdsc015/public_html/dev/index.php(17): require('/home/wdsc015/p...')
+#4 {main}
+  thrown in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 812
+[08-Mar-2014 05:46:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 806
+[08-Mar-2014 05:46:39 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (@) at position 0 (@): Unexpected character' in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php:812
+Stack trace:
+#0 /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php(812): DateTime->__construct('@')
+#1 /home/wdsc015/public_html/dev/wp-includes/template-loader.php(74): include('/home/wdsc015/p...')
+#2 /home/wdsc015/public_html/dev/wp-blog-header.php(16): require_once('/home/wdsc015/p...')
+#3 /home/wdsc015/public_html/dev/index.php(17): require('/home/wdsc015/p...')
+#4 {main}
+  thrown in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 812
+[08-Mar-2014 05:50:11 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (@) at position 0 (@): Unexpected character' in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php:812
+Stack trace:
+#0 /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php(812): DateTime->__construct('@')
+#1 /home/wdsc015/public_html/dev/wp-includes/template-loader.php(74): include('/home/wdsc015/p...')
+#2 /home/wdsc015/public_html/dev/wp-blog-header.php(16): require_once('/home/wdsc015/p...')
+#3 /home/wdsc015/public_html/dev/index.php(17): require('/home/wdsc015/p...')
+#4 {main}
+  thrown in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 812
+[08-Mar-2014 05:50:39 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (@) at position 0 (@): Unexpected character' in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php:812
+Stack trace:
+#0 /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php(812): DateTime->__construct('@')
+#1 /home/wdsc015/public_html/dev/wp-includes/template-loader.php(74): include('/home/wdsc015/p...')
+#2 /home/wdsc015/public_html/dev/wp-blog-header.php(16): require_once('/home/wdsc015/p...')
+#3 /home/wdsc015/public_html/dev/index.php(17): require('/home/wdsc015/p...')
+#4 {main}
+  thrown in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 812
+[08-Mar-2014 05:58:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 806
+[08-Mar-2014 05:58:36 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (@) at position 0 (@): Unexpected character' in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php:812
+Stack trace:
+#0 /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php(812): DateTime->__construct('@')
+#1 /home/wdsc015/public_html/dev/wp-includes/template-loader.php(74): include('/home/wdsc015/p...')
+#2 /home/wdsc015/public_html/dev/wp-blog-header.php(16): require_once('/home/wdsc015/p...')
+#3 /home/wdsc015/public_html/dev/index.php(17): require('/home/wdsc015/p...')
+#4 {main}
+  thrown in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 812
+[08-Mar-2014 05:58:53 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (@) at position 0 (@): Unexpected character' in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php:812
+Stack trace:
+#0 /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php(812): DateTime->__construct('@')
+#1 /home/wdsc015/public_html/dev/wp-includes/template-loader.php(74): include('/home/wdsc015/p...')
+#2 /home/wdsc015/public_html/dev/wp-blog-header.php(16): require_once('/home/wdsc015/p...')
+#3 /home/wdsc015/public_html/dev/index.php(17): require('/home/wdsc015/p...')
+#4 {main}
+  thrown in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 812
+[08-Mar-2014 06:36:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 806
+[08-Mar-2014 06:52:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 806
+[08-Mar-2014 07:02:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 806
+[08-Mar-2014 19:16:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 806
+[08-Mar-2014 19:16:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 806
+[08-Mar-2014 19:48:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 806
+[08-Mar-2014 19:49:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 806
+[08-Mar-2014 19:49:43 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (@) at position 0 (@): Unexpected character' in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php:812
+Stack trace:
+#0 /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php(812): DateTime->__construct('@')
+#1 /home/wdsc015/public_html/dev/wp-includes/template-loader.php(74): include('/home/wdsc015/p...')
+#2 /home/wdsc015/public_html/dev/wp-blog-header.php(16): require_once('/home/wdsc015/p...')
+#3 /home/wdsc015/public_html/dev/index.php(17): require('/home/wdsc015/p...')
+#4 {main}
+  thrown in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 812
+[08-Mar-2014 20:55:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 806
+[09-Mar-2014 01:38:15 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (@) at position 0 (@): Unexpected character' in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php:814
+Stack trace:
+#0 /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php(814): DateTime->__construct('@')
+#1 /home/wdsc015/public_html/dev/wp-includes/template-loader.php(74): include('/home/wdsc015/p...')
+#2 /home/wdsc015/public_html/dev/wp-blog-header.php(16): require_once('/home/wdsc015/p...')
+#3 /home/wdsc015/public_html/dev/index.php(17): require('/home/wdsc015/p...')
+#4 {main}
+  thrown in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 814
+[10-Mar-2014 15:38:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (@) at position 0 (@): Unexpected character' in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php:814
+Stack trace:
+#0 /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php(814): DateTime->__construct('@')
+#1 /home/wdsc015/public_html/dev/wp-includes/template-loader.php(74): include('/home/wdsc015/p...')
+#2 /home/wdsc015/public_html/dev/wp-blog-header.php(16): require_once('/home/wdsc015/p...')
+#3 /home/wdsc015/public_html/dev/index.php(17): require('/home/wdsc015/p...')
+#4 {main}
+  thrown in /home/wdsc015/public_html/dev/wp-content/themes/PricerrTheme/single-job.php on line 814
